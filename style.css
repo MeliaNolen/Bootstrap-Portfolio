@@ -10,11 +10,24 @@ body {
 
 .teal-heading {
     background: lightseagreen;
+    font-weight: 700;
+    font-size: 30px;
+    
+
 }
 
 nav {
-   
-    font-family: 'Georgia', Times, Times New Roman, serif;
+   height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.myborder {
+    border-left: 1px solid #999;
+    line-height: 10px;
+}
+
+.noborder {
+    border: 0;
 }
 
 body {
@@ -28,12 +41,12 @@ footer {
     width: 100%;
     background: lightseagreen;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    margin-top: 20px;
-    
+    margin-top: 50px;
+    padding-top:20px;
 }
 
 .foot-format{
-    margin-top: 20px;
+    
     background: dimgray;
     height: 100px;
     line-height: 100px;
@@ -41,8 +54,18 @@ footer {
     color: #ffffff;
 }
 
-h1, h3 {
+h1, h2 {
     color: lightseagreen;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 22px;
 }
 
 .img {

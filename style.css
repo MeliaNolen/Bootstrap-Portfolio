@@ -1,0 +1,41 @@
+body {
+    background: whitesmoke;
+    
+}
+
+.main-col {
+    background: #ffffff;
+}
+
+
+.teal-heading {
+    background: lightseagreen;
+}
+
+nav {
+   
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+footer {
+    position: fixed;
+    height: 120px;
+    bottom: 0;
+    width: 100%;
+    background: lightseagreen;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.foot-format{
+    margin-top: 20px;
+    background: dimgray;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: #ffffff;
+}

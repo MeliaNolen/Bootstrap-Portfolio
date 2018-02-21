@@ -79,3 +79,13 @@ h2 {
     
     
 }
+
+.float-left {
+    float:left;
+    margin-left: 20px;
+}
+
+.float-right {
+    float:right; 
+    margin-left: 20px;
+}

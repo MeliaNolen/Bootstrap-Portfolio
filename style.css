@@ -17,16 +17,16 @@ body {
 }
 
 
-.teal-heading {
+.logo {
     background: lightseagreen;
     font-weight: 700;
     font-size: 30px;
-    
 
 }
 
+
+
 nav {
-   height: 90px;
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 
@@ -35,13 +35,20 @@ nav {
     line-height: 10px;
 }
 
+.navbar {
+    background: white;
+    border: none;
+  }
+
 .noborder {
-    border: 0;
+    border: none;
 }
+
 
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
 
 footer {
     position: static;

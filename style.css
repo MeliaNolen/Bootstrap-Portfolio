@@ -21,13 +21,14 @@ body {
     background: lightseagreen;
     font-weight: 700;
     font-size: 30px;
-
+    height: 110;
 }
 
 
 
 nav {
     font-family: Georgia, Times, "Times New Roman", serif;
+    
 }
 
 .myborder {

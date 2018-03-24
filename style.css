@@ -50,9 +50,17 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.block {
+    margin-bottom: 160px;
+}
 
 footer {
-    position: static;
+    position: absolute;
     height: 120px;
     bottom: 0;
     width: 100%;
